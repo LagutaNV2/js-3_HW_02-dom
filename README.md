@@ -1,6 +1,8 @@
 # Домашнее задание к занятию "2. DOM"
 https://lagutanv2.github.io/js-3_HW_02-dom/
 
+CI [![Build status](https://ci.appveyor.com/api/projects/status/1h94ac297vihrt9n?svg=true)](https://ci.appveyor.com/project/LagutaNV2/js-3-hw-02-dom)
+
 
 Правила сдачи задания:
 
