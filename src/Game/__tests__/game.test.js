@@ -35,7 +35,7 @@ describe("Game class", () => {
   test("Проверяем интервал в 1 минуту", () => {
     jest.useFakeTimers(); // моки таймеров
     game.addGameField();
-    game.replaceField();у
+    game.replaceField();
 
     expect(game.intervalId).not.toBeNull();
 
